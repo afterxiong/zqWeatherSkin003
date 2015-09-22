@@ -1,0 +1,29 @@
+8
+
+dir
+1806
+https://172.168.11.54:8443/svn/android/zqWeather2.0/zqWeather/keystore
+https://172.168.11.54:8443/svn/android
+
+
+
+2014-05-20T09:41:25.671875Z
+1042
+linsubo
+
+
+svn:special svn:externals svn:needs-lock
+
+weather_key
+file
+
+
+
+
+2013-11-26T01:29:14.840000Z
+7b153196e930b7e8f65b2d8211909ec2
+2014-05-20T09:41:25.671875Z
+1042
+linsubo
+has-props
+

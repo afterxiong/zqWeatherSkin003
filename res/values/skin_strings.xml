@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="skin_city">%1$s</string>
+    <string name="skin_time">%1$d:%2$d</string>
+    <string name="skin_date">%1$d/%2$d</string>
+    <string name="skin_week">%1$s</string>
+    <string name="skin_lunar">%1$s</string>
+    <string name="skin_festival">距%1$s %2$d 天</string>
+    <string name="skin_weather">%1$s</string>
+    <string name="skin_temp">%1$s°</string>
+    <string name="skin_temp_max">%1$s°</string>
+    <string name="skin_temp_min">%1$s°/</string>
+    <string name="skin_feeltemp">体感温度:%1$s°</string>
+    <string name="skin_wind">%1$s</string>
+    <string name="skin_aqi_index">%1$s</string>
+    <string name="skin_aqi_level">%1$s</string>
+    <string name="skin_update_time">%1$s</string>
+    <string name="skin_forecast_week">%1$s</string>
+    <string name="skin_forecast_max">%1$s°</string>
+    <string name="skin_forecast_min">%1$s°/</string>
+    <string name="skin_weather_describe">晴转多云</string>
+    <string name="skin_weather_city">乌鲁木齐</string>
+
+    <string-array name="skin_weeks">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="skin_aqi_levels">
+        <item>空气优</item>
+        <item>空气良</item>
+        <item>轻度污染</item>
+        <item>中度污染</item>
+        <item>重度污染</item>
+        <item>危险</item>
+    </string-array>
+
+</resources>
